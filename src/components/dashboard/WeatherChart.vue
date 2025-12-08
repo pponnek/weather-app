@@ -90,7 +90,7 @@ const chartOptions = computed(() => {
                 },
                 grid: {
                     color: isDark
-                        ? "rgba(255,255,255,0.05)" // ✅ DI SINI
+                        ? "rgba(255,255,255,0.8)"
                         : "rgba(0,0,0,0.08)",
                 },
             },
@@ -100,7 +100,7 @@ const chartOptions = computed(() => {
                 },
                 grid: {
                     color: isDark
-                        ? "rgba(255,255,255,0.05)" // ✅ DAN DI SINI
+                        ? "rgba(255,255,255,0.05)"
                         : "rgba(0,0,0,0.08)",
                 },
             },
