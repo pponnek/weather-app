@@ -6,7 +6,7 @@
             <div class="text-sm text-surface-600 dark:text-surface-400">2025 pponnek</div>
             <div class="flex gap-4">
                 <a
-                    href="https://twitter.com/primevue"
+                    href="https://twitter.com/pponnek"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-surface-600 dark:text-surface-400 hover:text-primary transition-colors text-sm"
@@ -14,15 +14,15 @@
                     <i class="pi pi-twitter text-xl"></i>
                 </a>
                 <a
-                    href="https://primevue.org"
+                    href="https://www.instagram.com/chav3es/"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-surface-600 dark:text-surface-400 hover:text-primary transition-colors text-sm"
                 >
-                    <i class="pi pi-globe text-xl"></i>
+                    <i class="pi pi-instagram text-xl"></i>
                 </a>
                 <a
-                    href="https://github.com/primefaces/primevue"
+                    href="https://github.com/pponnek"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-surface-600 dark:text-surface-400 hover:text-primary transition-colors text-sm"
